@@ -93,14 +93,13 @@ textarea {
 /*Large Background Image*/
 html {
     height: 100%;
-    margin: 0;
     background: url('../img/mg-image6.jpg') no-repeat center center fixed;
+    background-size: cover;
    /* set height to 100% - these are important for allowing content to vertically align */
 }
 
 body {
     height: 100%;
-    margin: 0;
   /* set height to 100% - these are important for allowing content to vertically align */
 }
 
